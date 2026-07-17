@@ -160,11 +160,11 @@ I enjoy building:
 
 # 🤝 Let's Connect
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+💼 LinkedIn: https://www.linkedin.com/in/suhas-j-9b6293177  
 
-📧 Email: *(Add your email)*
+📧 Email: suhasudupi777@gmail.com
 
-🌐 Portfolio: *(Coming Soon)*
+🌐 Portfolio: https://beu2177.github.io/#contact
 
 ---
 
