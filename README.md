@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suhas Jogi
 
-### AI Engineer | Generative AI Engineer | Machine Learning Engineer | Python Developer
+### AI | Generative AI | Machine Learning | Python 
 
 I am an AI Engineer passionate about building **production-ready AI applications** using **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Machine Learning, and Cloud Technologies**.
 
