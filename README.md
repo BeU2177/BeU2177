@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Suhas Jogi
 
-### AI | Generative AI | Machine Learning | Python 
+### AI | Generative AI | Machine Learning | Python | Agentic AI | MCP 
 
-I am an AI Engineer passionate about building **production-ready AI applications** using **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Machine Learning, and Cloud Technologies**.
+I am an AI Engineer passionate about building **production-ready AI applications** using **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Machine Learning, Deep Learning and Cloud Technologies**.
 
 My focus is on developing intelligent systems that solve real-world problems in **aviation, enterprise automation, compliance, and document intelligence**.
 
